@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 */**/.~*.ipynb
-tax_data.csv
-tax_data_2019.csv
+data/tax_data_2020.csv
+data/tax_data_2019.csv
