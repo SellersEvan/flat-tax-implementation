@@ -24,7 +24,19 @@ Provided by the United States IRS (Internal Revenue Service) \
 - Most popular tax return by $ amount overall
 - Most popular tax return by $ amount per tax bracket
 
-### Tax Percentages
+### Up Next
+- Tax Credit Breakdown
+    - total $ amount
+    - total $ amount, by credit type
+    - total $ amount, by tax bracket
+    - total $ amount, by credit type, by tax bracket
+- Tax Deduction Breakdown
+    - total $ amount
+    - total $ amount, by credit type
+    - total $ amount, by tax bracket
+    - total $ amount, by credit type, by tax bracket
+- Merge both Tax Deduction + Credits
 - Theoretical Tax Revenue Based on Income
 - Percentage of Taxes paided by each Tax Bracket
-- ...
+- Covid Releif "Economic impact payment"
+
