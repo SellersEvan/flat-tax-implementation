@@ -1,4 +1,15 @@
-# flat-tax-implementation
+# Implementation of Flat Tax Rate in US
+
+
+## Datasets
+Provided by the United States IRS (Internal Revenue Service) \
+
+**Sources**
+[2020 Data & Documentation](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi) \
+[2019 Data & Documentation](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2019-zip-code-data-soi)
+
+
+## Areas of Research
 
 ### Tax Returns Overall (TaxReturnsOverall.ipynb)
 - Total returns filed
