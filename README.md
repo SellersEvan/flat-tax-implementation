@@ -11,13 +11,13 @@ Provided by the United States IRS (Internal Revenue Service) \
 
 ## Areas of Research
 
-### Tax Returns Overall (TaxReturnsOverall.ipynb)
+### Tax Returns Overall
 - Total returns filed
 - Total returns filed per tax bracket
 - Total returns $ amount
 - Total returns $ amount per tax bracket
 
-### Tax Return Types (TaxReturnsOverall.ipynb)
+### Tax Return Types
 - What are the types of tax returns?
 - Most popular tax return by filled overall
 - Most popular tax return by filled per tax bracket
